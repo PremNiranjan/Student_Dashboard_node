@@ -1,0 +1,38 @@
+{"students": [
+   {
+    "id": 1,
+    "name": "Student 1",
+    "email": "student@email.com",
+    "phone_number": "9999999999",
+    "department": "IT"
+   },
+   {
+    "id": 1,
+    "name": "Student 1",
+    "email": "student@email.com",
+    "phone_number": "9999999999",
+    "department": "IT"
+   },
+   {
+    "id": 1,
+    "name": "Student 1",
+    "email": "student@email.com",
+    "phone_number": "9999999999",
+    "department": "IT"
+   },
+   {
+    "id": 1,
+    "name": "Student 1",
+    "email": "student@email.com",
+    "phone_number": "9999999999",
+    "department": "IT"
+   },
+   {
+    "id": 1,
+    "name": "Student 1",
+    "email": "student@email.com",
+    "phone_number": "9999999999",
+    "department": "IT"
+   }
+ ]
+}
