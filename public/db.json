@@ -1,38 +1,43 @@
 {"students": [
-   {
-    "id": 1,
-    "name": "Student 1",
-    "email": "student@email.com",
-    "phone_number": "9999999999",
-    "department": "IT"
+  {
+    "id": "00888578",
+    "name": "Prem Niranjan Undavalli",
+    "email": "punda1@unh.newhaven.edu",
+    "phone_number": "5513281722",
+    "department": "CS",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjSDtoJgDMCA2U7u1yCUscJw3Qa51ABziJ8J6OFVSpHA&s"
    },
    {
-    "id": 1,
-    "name": "Student 1",
-    "email": "student@email.com",
-    "phone_number": "9999999999",
-    "department": "IT"
+    "id": "00467878",
+    "name": "Renuka Gadde",
+    "email": "Gadde2@unh.newhaven.edu",
+    "phone_number": "5512274532",
+    "department": "IT",
+    "image": "https://www.svgrepo.com/show/382099/female-avatar-girl-face-woman-user-2.svg"
    },
    {
-    "id": 1,
-    "name": "Student 1",
-    "email": "student@email.com",
-    "phone_number": "9999999999",
-    "department": "IT"
+    "id": "00555236",
+    "name": "Chaitanya Alluri",
+    "email": "Allu3@unh.newhaven.edu",
+    "phone_number": "5513281712",
+    "department": "DS",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjSDtoJgDMCA2U7u1yCUscJw3Qa51ABziJ8J6OFVSpHA&s"
    },
    {
-    "id": 1,
-    "name": "Student 1",
-    "email": "student@email.com",
-    "phone_number": "9999999999",
-    "department": "IT"
+    "id": "00555232",
+    "name": "Teju Madiri",
+    "email": "Madri4@unh.newhaven.edu",
+    "phone_number": "5512278968",
+    "department": "BA",
+    "image": "https://www.svgrepo.com/show/382099/female-avatar-girl-face-woman-user-2.svg"
    },
    {
-    "id": 1,
-    "name": "Student 1",
-    "email": "student@email.com",
-    "phone_number": "9999999999",
-    "department": "IT"
+    "id": "00555254",
+    "name": "Chakri Reddy",
+    "email": "Reddy5@unh.newhaven.edu",
+    "phone_number": "5516099069",
+    "department": "BM",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjSDtoJgDMCA2U7u1yCUscJw3Qa51ABziJ8J6OFVSpHA&s"
    }
  ]
 }
